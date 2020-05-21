@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "5.3.1",
+        "guzzlehttp/guzzle": "^6.0",
         "symfony/serializer": "^3.2",
         "symfony/property-info": "^3.2"
     },
